@@ -1,4 +1,4 @@
-package com.reetesh.app.controller;
+package com.reetesh.app.controllerr;
 
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
